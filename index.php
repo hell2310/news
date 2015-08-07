@@ -15,7 +15,7 @@
 	<header class="header-top">
 		<nav class="nav nav-bar main-nav">
 			<div class="pull-left menu-bars"><a href="#" onclick="toggleMenu()" class="fa fa-bars"></a></div>
-			<h1 id="logo" class="pull-left">tafint</h1>	
+			<h1 id="logo" class="pull-left">tafint Blog</h1>	
 			<ul id="primary-menu" class="pull-left hidden-sm hidden-xs">
 				<li><a href="#">HOME</a></li>
 				<li><a href="#">BLOG</a></li>
