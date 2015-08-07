@@ -1,0 +1,152 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+a,a:link,a:hover,a:visited,a:active{
+	text-decoration: none;
+	color: #ffffff;
+}
+header{
+	height: 60px;
+	background-color: #098d94;
+	padding: 0 50px;
+	color: #ffffff;
+	font-family:Rokkitt;
+	margin-bottom: 30px;
+}
+header a{
+	color: #ffffff;
+}
+.menu-bars{
+	padding: 15px 20px;	
+	font-size: 30px;
+	line-height: 30px;
+	color: #ffffff;
+}
+#logo{
+	font-family:Rokkitt;
+	font-size: 60px;
+	font-weight: bold;
+	margin: 0;
+	line-height: 60px;
+}
+#primary-menu{
+	margin-left: 50px;
+}
+#primary-menu li{
+	font-size: 20px;
+	line-height: 20px;
+	display: inline-block;
+	margin: 20px 10px;
+}
+.slide-menu{
+	font-family:Rokkitt;
+	background-color: #098d94;
+	font-size: 20px;
+	display: block;
+	position: fixed;
+	width: 300px;
+	height: 100%;
+	top: 60px;
+	left: -300px;
+	z-index: 9999;
+	transition: 0.5s;
+}
+.slide-menu ul{
+	margin: 0;
+}
+.slide-menu li{
+	padding: 10px 30px;
+	border-top: 1px #ffffff solid
+}
+.slide-menu a{
+	color: #ffffff;
+}
+.slide-menu-in{
+	left:0;
+}
+.wrapper{
+	min-height: 500px;
+	font-family: "Source Sans Pro";
+	margin-bottom: 30px;
+}
+.wrapper h1,.wrapper h2,.wrapper h3,.wrapper h4,.wrapper h5,.wrapper h6{
+	font-family: "Source Sans Pro";
+}
+.sidebar-article{
+	border: 1px #098d94 solid;
+	border-radius:20px 0 20px 0;
+	margin-bottom: 20px;
+}
+.main-content{
+	
+}
+.main-article{
+	padding: 10px;
+}
+.post-image{
+	overflow: hidden;
+	height: 150px;
+	text-align: center;
+}
+.post-image img{
+	max-width: 150px;
+}
+.post-title{
+	font-size: 30px;
+	margin: 0;
+}
+.post-title a{
+	color: #000000;
+}
+.post-content{
+	font-size: 16px;
+}
+.sidebar-title{
+	text-align: center;
+	font-weight: bold;
+	color: #098d94;
+	font-size: 24px;
+}
+.sidebar-list li{
+	padding: 5px 20px;
+}
+.sidebar-list a{
+	color: #000000;
+	font-size: 16px;
+}
+.article-2{
+	text-align: center;
+}
+.article-2 img{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+}
+#footer-main{
+	background-color: #098d94;
+	height: 80px;
+	color: #ffffff;
+}
+.footer-title{
+	font-size: 16px;
+	line-height: 16px;
+	padding: 32px 0;
+}
+.footer-social{
+	padding: 25px 0;
+	margin:0;
+}
+.footer-social li{
+	display: inline-block;
+	font-size: 20px;
+	line-height: 20px;
+	padding: 5px;
+	min-width: 35px;
+	text-align: center;
+	margin-left: 5px;
+	border: 1px #ffffff solid;
+}
