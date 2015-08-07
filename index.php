@@ -86,6 +86,17 @@
 						</p>
 					</div>
 				</article>
+				<article class="row main-article">
+					<div class="col-md-3 post-image">
+						<a href="#"><img src="images/image.png"></a>
+					</div>
+					<div class="col-md-9 post-content-area">
+						<h1 class="post-title"><a href="#">Title</a></h1>
+						<p class="post-content">
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+						</p>
+					</div>
+				</article>
 			</div>
 		</div>
 	</div>
